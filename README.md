@@ -1,6 +1,6 @@
 # PowerBI_Project-Superstore_Data_Analysis
 
-### In this project I have analysed following things using power bi :-
+### In this project I have analyzed the following data using power bi :-
 1. Year wise total sales amount, total quantity sold, profit , shipping cost etc.
 2. Sales by category
 3. Sales by Region
